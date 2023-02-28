@@ -1,6 +1,11 @@
 ### Olá, eu sou o Caio
 </br>
 <div style="text-align: justify">
+  Olá pessoal,
+
+Meu nome é Caio Sulz, sou estudante de Engenharia de Software na Universidade de Brasília apaixonado por tecnologia e inovação.
+
+Ao longo da minha jornada acadêmica, adquiri habilidades em Python e MySQL, além de metodologias de desenvolvimento de software como Agile e Scrum.
 
 </br>
 
@@ -8,8 +13,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-sulz-83bab4234/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiosulz14@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561999455714&text=Ol%C3%A1%2C%20Victor.%20Te%20encontrei%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA.%20)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thiagomes)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561999150785&text=Ol%C3%A1%2C%20Caio.%20Te%20encontrei%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA.%20)
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioSulz&show_icons=true&theme=radical)
 
