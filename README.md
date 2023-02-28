@@ -1,9 +1,7 @@
 ### Olá, eu sou o Caio
 </br>
 <div style="text-align: justify">
-  Olá pessoal,
-
-Meu nome é Caio Sulz, sou estudante de Engenharia de Software na Universidade de Brasília apaixonado por tecnologia e inovação.
+   Sou estudante de Engenharia de Software na Universidade de Brasília apaixonado por tecnologia e inovação.
 
 Ao longo da minha jornada acadêmica, adquiri habilidades em Python e MySQL, além de metodologias de desenvolvimento de software como Agile e Scrum.
 
