@@ -37,5 +37,5 @@ Ao longo da minha jornada acadêmica, adquiri habilidades em Python, MySQL e Git
 ### Professional life currently - Vida profissional atualmente
 
 - :books: Estudante de Engenharia de Software - UnB.
-- [📊 Data Analyst Jr](#-analytics-)
+- 📊 Data Analyst Jr
 
