@@ -22,6 +22,7 @@ Ao longo da minha jornada acadêmica, adquiri habilidades em Python, MySQL e Git
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiosulzsoft@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561999150785&text=Ol%C3%A1%2C%20Caio.%20Te%20encontrei%20pelo%20GitHub%20e%20gostaria%20de%20falar%20com%20voc%C3%AA.%20)
 
+[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioSulz&theme=merko&show_icons=true)](https://github.com/CaioSulz/github-readme-stats)
 
 
 ### My everyday technologies - Tecnologias do meu dia a dia
