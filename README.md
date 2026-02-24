@@ -40,6 +40,6 @@ With a background in Software Engineering, I bring a systems-oriented mindset to
 
 ### Professional Projects - Projetos Profissionais
 
-[![Sopro]](https://soproprodutora.com/)
+[sopro](https://soproprodutora.com/)
 
 
