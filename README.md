@@ -38,3 +38,8 @@ With a background in Software Engineering, I bring a systems-oriented mindset to
 - 📊 Data Analyst at PPN Tecnologia.
 - QA for AI-driven legacy code modernization systems.
 
+### Professional Projects - Projetos Profissionais
+
+[![Sopro]](https://soproprodutora.com/)
+
+
