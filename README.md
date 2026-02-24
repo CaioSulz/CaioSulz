@@ -37,6 +37,7 @@ Ao longo da minha jornada acadêmica, adquiri habilidades em Python, MySQL e Git
 
 ### Professional life currently - Vida profissional atualmente
 
-- :books: Estudante de Engenharia de Software - UnB.
-- 📊 Data Analyst Jr
+- :books: Software Engineering - UnB.
+- 📊 Data Analyst at PPN Tecnologia.
+- QA for AI-driven legacy code modernization systems.
 
