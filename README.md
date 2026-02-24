@@ -4,15 +4,13 @@
 
    ### Hello everyone,
 
-My name is Caio Sulz, and I am a Software Engineering student in University of Brasília, with a passion for technology and innovation.
+Data Analyst with over 3 years of experience in Business Intelligence environments, specializing in Tableau and SQL-based data modeling.
 
-Throughout my academic journey, I have acquired skills in Python, MySQL and Git, in addition to software development methodologies such as Agile and Scrum. I also have knowledges in ​​Business Intelligence and tools such as MicroStrategy and Tableau.
+I design and maintain executive dashboards, translate business requirements into analytical solutions, and support decision-making through structured, reliable data systems.
 
-### Olá pessoal,
+In addition, I work as a QA specialist for AI-driven legacy code modernization systems, validating generated outputs, testing application behavior, and ensuring business rules integrity in production environments.
 
-Meu nome é Caio Sulz, sou estudante de Engenharia de Software na Universidade de Brasília, apaixonado por tecnologia e inovação.
-
-Ao longo da minha jornada acadêmica, adquiri habilidades em Python, MySQL e Git, além de metodologias de desenvolvimento de software como Agile e Scrum. Possuo também conhecimentos na área de Business Inteligence e com ferramentas como MicroStrategy e Tableau.
+With a background in Software Engineering, I bring a systems-oriented mindset to data analytics — focusing not only on visualization, but on data architecture, performance, and reliability.
 
 </br>
 
